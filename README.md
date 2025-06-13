@@ -9,14 +9,14 @@ Tampermonkey Uyumlu: Betik, Firefox için Tampermonkey ve Chrome için Greasemon
 Eski Reddit Arayüzü Desteği: Betik, Reddit'in eski arayüzü (old.reddit.com) yapısına uygun olarak tasarlanmıştır ve abonelikten çıkma butonlarını bu arayüzde doğru şekilde bulup etkileşime geçebilir.
     
 Güvenli Çalışma: Her bir abonelikten çıkma işlemi arasında küçük bir gecikme (timeout) bırakılarak, Reddit sunucularına aşırı yük bindirilmesi veya API kısıtlamalarına takılma riskini azaltır.
-
+***
 Nasıl Kullanılır?
 
-> -Tarayıcınıza (Firefox için Tampermonkey önerilir) Tampermonkey eklentisini kurun.
-> -Bu depodaki JavaScript dosyasını (veya doğrudan yukarıda verilen kodu) Tampermonkey'de yeni bir betik olarak kaydedin.
-> -https://www.reddit.com/subreddits/ adresine gidin.
-> -Betik otomatik olarak çalışacak ve size abonelikten çıkma işlemini onaylamanız için bir uyarı gösterecektir. Onayınızın ardından işlem başlayacaktır.
-
+-Tarayıcınıza (Firefox için Tampermonkey önerilir) Tampermonkey eklentisini kurun.
+-Bu depodaki JavaScript dosyasını (veya doğrudan yukarıda verilen kodu) Tampermonkey'de yeni bir betik olarak kaydedin.
+-https://www.reddit.com/subreddits/ adresine gidin.
+-Betik otomatik olarak çalışacak ve size abonelikten çıkma işlemini onaylamanız için bir uyarı gösterecektir. Onayınızın ardından işlem başlayacaktır.
+***
 Uyarı:
 
 Bu betik, onayınızla birlikte geri alınamaz bir şekilde tüm aboneliklerinizden çıkacaktır. Lütfen kullanmadan önce işlemi gerçekleştirmek istediğinizden tamamen emin olun. Depoda bulunan kodu inceleyerek veya bir sorunla karşılaştığınızda bir 'issue' açarak katkıda bulunabilirsiniz.
