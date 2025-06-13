@@ -12,10 +12,10 @@ Güvenli Çalışma: Her bir abonelikten çıkma işlemi arasında küçük bir 
 ***
 Nasıl Kullanılır?
 
--Tarayıcınıza (Firefox için Tampermonkey önerilir) Tampermonkey eklentisini kurun.
--Bu depodaki JavaScript dosyasını (veya doğrudan yukarıda verilen kodu) Tampermonkey'de yeni bir betik olarak kaydedin.
--https://www.reddit.com/subreddits/ adresine gidin.
--Betik otomatik olarak çalışacak ve size abonelikten çıkma işlemini onaylamanız için bir uyarı gösterecektir. Onayınızın ardından işlem başlayacaktır.
+1.Tarayıcınıza (Firefox için Tampermonkey önerilir) Tampermonkey eklentisini kurun.
+2.Bu depodaki JavaScript dosyasını (veya doğrudan yukarıda verilen kodu) Tampermonkey'de yeni bir betik olarak kaydedin.
+3.https://www.reddit.com/subreddits/ adresine gidin.
+4.Betik otomatik olarak çalışacak ve size abonelikten çıkma işlemini onaylamanız için bir uyarı gösterecektir. Onayınızın ardından işlem başlayacaktır.
 ***
 Uyarı:
 
