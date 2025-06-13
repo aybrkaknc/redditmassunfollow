@@ -1,7 +1,7 @@
 Bu GitHub deposu, Reddit'teki aboneliklerinizi daha kolay ve hızlı bir şekilde yönetmek isteyen kullanıcılar için tasarlanmış basit bir JavaScript kullanıcı betiği içerir. Özellikle, Reddit'in /subreddits/ sayfasında bulunan abone olunan tüm alt dizinlerden (subreddit'lerden) toplu olarak çıkma işlevini otomatikleştirmektedir.
 
 ***
-// ==UserScript==
+'''// ==UserScript==
 // @name         Reddit Toplu Abonelikten Çıkma (Güncellenmiş)
 // @namespace    http://tampermonkey.net/
 // @version      0.2 // Versiyon numarasını güncelledim
@@ -63,6 +63,7 @@ Bu GitHub deposu, Reddit'teki aboneliklerinizi daha kolay ve hızlı bir şekild
     // İşlemi başlat
     clickButtonWithDelay(0);
 })();
+'''
 
 Temel Özellikler:
 
